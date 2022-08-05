@@ -1,3 +1,3 @@
 # message
 
-builder design pattern
+strategy design pattern
